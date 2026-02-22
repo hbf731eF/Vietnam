@@ -2,27 +2,53 @@ Vietnam protests/events and artists cross-reference
 
 Claude Opus 4.6 AI prompt
 
-I have two lists I need you to find cross-references. I need to know in which protests in the US and abroad have the following singer/songwriter artists taken part or have been tightly associated with https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War Vietnam protest songs, which peaked in popularity between 1965 and 1973, were pivotal in shaping anti-war sentiment, focusing on themes of pointless death, unfair drafting, and the desire for peace. Key anthems include Creedence Clearwater Revival's "Fortunate Son," Edwin Starr's "War," and Country Joe & The Fish's "Feel Like I'm Fixin' To Die Rag".
+I have two lists I need you to find cross-references. I need to know in which protests in the US and abroad have the following singer/songwriter artists taken part or have been tightly associated with
+
+https://en.wikipedia.org/wiki/List_of_protests_against_the_Vietnam_War
+
+Vietnam protest songs, which peaked in popularity between 1965 and 1973, were pivotal in shaping anti-war sentiment, focusing on themes of pointless death, unfair drafting, and the desire for peace. 
+Key anthems include Creedence Clearwater Revival's "Fortunate Son," Edwin Starr's "War," and Country Joe & The Fish's "Feel Like I'm Fixin' To Die Rag".
+
 Iconic Anti-War Anthems:
+
 "War" - Edwin Starr (1970): A direct, high-energy declaration of the war's futility.
+
 "Fortunate Son" - Creedence Clearwater Revival (1969): Criticized the class disparity of the draft.
+
 "Feel Like I'm Fixin' To Die Rag" - Country Joe & The Fish (1967): Satirical, anti-establishment anthem.
+
 "Give Peace A Chance" - John Lennon (1969): Became a global anthem for the peace movement.
+
 "Ohio" - Crosby, Stills, Nash & Young (1970): Reacted to the Kent State shootings.
+
 Folk and Topical Songs:
+
 "Draft Dodger Rag" - Phil Ochs (1966): Satirized attempts to avoid military service.
+
 "I-Feel-Like-I'm-Fixin'-to-Die Rag" - Country Joe and the Fish (1967): A popular satirical song about the war.
+
 "Saigon Bride" - Joan Baez (1967): Focused on the personal loss and human cost.
+
 "Waist Deep in the Big Muddy" - Pete Seeger (1967): Served as an allegory for the leadership's failures in Vietnam.
+
 Rock and Soul Protest:
+
 "What's Going On" - Marvin Gaye (1971): Addressed the social turmoil and return of soldiers.
+
 "All Along the Watchtower" - Jimi Hendrix (1968): Widely interpreted as a critique of the chaos of the era.
+
 "The Unknown Soldier" - The Doors (1968): Protested the media's portrayal of the war.
+
 "For What It's Worth" - Buffalo Springfield (1966): Focused on the polarization and conflict at home.
+
 Other Notable Songs:
+
 "Bring the Boys Home" - Freda Payne (1971)
+
 "Eve of Destruction" - Barry McGuire (1965)
+
 "Vietnam" - Jimmy Cliff (1970)
+
 "Backlash Blues" - Nina Simone (1967)
 
 Claude Opus 4.6 AI prompt
